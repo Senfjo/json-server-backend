@@ -2,74 +2,74 @@
   "projects": [
     {
       "id": 1,
-      "name": "",
-      "image": " ",
-      "description": 1,
+      "name": "://about blank",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Techno-Club_About_Blank_Markgrafendamm_Berlin.jpg",
+      "description": "://about blank is a formerly illegal, multi-room club by Ostkreuz S-Bahnhof in Friedrichshain. It's a short walk from Salon Zur Wilde Renate, and like that club, it's a lightly renovated re-purposed building with seemingly endless nooks and crannies. There are two main dance floors inside, and in the summer DJs play out in the garden (this is open in the winter too, often with a bonfire going).\n\nThe music policy is open-ended but mostly focused on house and techno, with occasional bass or disco nights. The overall atmosphere is gritty, and the parties often go well into the following afternoon or evening.",
 
       "address": {
-        "street": "",
-        "zip": "",
-        "city": "",
-        "country": ""
+        "street": "Markgrafendamm 24c",
+        "zip": "10245",
+        "city": "Berlin",
+        "country": "Germany"
       },
 
-      "genre": "",
+      "genre": ["House", "Techno"],
 
-      "capacity": 1234,
+      "capacity": 800,
       "src": {
-        "ra_guide": "",
-        "iframe": ""
+        "ra_guide": "https://de.ra.co/clubs/28354",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.707603093911!2d13.463797876771983!3d52.502532272056555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84ef9ee28277f%3A0x9ba3bce436e2b6ae!2zOi8vYWJvdXQgYmxhbms!5e0!3m2!1sde!2sde!4v1717755079052!5m2!1sde!2sde"
       }
     },
 
     {
       "id": 2,
-      "name": "",
-      "image": " ",
-      "description": 1,
+      "name": "Berghain",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Techno-Club_About_Blank_Markgrafendamm_Berlin.jpg",
+      "description": "Sitting in a dusty lot on the border of Kreuzberg and Friedrichshain, Berghain is widely considered one of the world's best nightclubs. It has three dance floors: Berghain, a dark main room where most DJs play techno, Panorama Bar, an upstairs space that's more focused on house, and the Säule on ground floor, though the music policy in all rooms is very open-ended. (There's also a men's-only club on the first level called Lab.Oratory, the occasionally used Halle and a smaller club with a separate entrance called Kantine am Berghain.)\n\nA number of details give Berghain its cult appeal: its residents, which include Steffi, Tama Sumo, Marcel Dettmann and Ben Klock, its set lengths, which range from three hours to more than eight, and its decor, which is mostly metal and poured concrete, with 30 meter ceilings and seemingly endless nooks and crannies.\n\nMost of the parties are extremely long: Friday night events usually wrap up early Saturday afternoon, but Saturdays typically run well into Monday morning. Perhaps the most notorious aspect of the club is its door policy—hundreds of people are turned away each weekend, including regulars, often for reasons that are completely mysterious to everyone except the doormen.",
 
       "address": {
-        "street": "",
-        "zip": "",
-        "city": "",
-        "country": ""
+        "street": "Am Wriezener Bahnhof",
+        "zip": "10243",
+        "city": "Berlin",
+        "country": "Germany"
       },
 
-      "genre": "",
+      "genre": ["Techno", "Hardgroove"],
 
-      "capacity": 1234,
+      "capacity": 1500,
       "src": {
-        "ra_guide": "",
-        "iframe": ""
+        "ra_guide": "https://de.ra.co/clubs/5031",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.223601931593!2d13.440121876772514!3d52.5112923720588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e438bc65e9f%3A0x6bf6d41ba1fc757c!2sBerghain%20%7C%20Panorama%20Bar%20%7C%20S%C3%A4ule!5e0!3m2!1sde!2sde!4v1717757635633!5m2!1sde!2sde"
       }
     },
 
     {
       "id": 3,
-      "name": "",
-      "image": " ",
-      "description": 1,
+      "name": "Birgit und Bier",
+      "image": "https://static.wixstatic.com/media/326c15_32ca9e211a7d4df5b189d2b2f47e4f19~mv2.jpg/v1/fill/w_1599,h_900,al_c,q_85,enc_auto/326c15_32ca9e211a7d4df5b189d2b2f47e4f19~mv2.jpg",
+      "description": "In the very heart of Berlin's most colorful quarter, lies Birgit: a huge, magical playground for adults.\n\nOur Birgit reigns over three magnificent dance floors equipped with powerful Funktion One systems. Each floor is designed for a completely different musical style: Birgit's Wohnzimmer is a half open cosy living room for Berlin's finest Deep and Tech House. The Bunker floor is a powerful, hypnotizing Techno vault, and the Rummel floor is a fun floor where everything but electronic music is being played.\n\nWhether you are there to enjoy a cold, fresh keg beer or to lose yourself in Birgit's full weekend party program, Birgit is exactly the venue that offers you the best of everything you ever loved in the night.",
 
       "address": {
-        "street": "",
-        "zip": "",
-        "city": "",
-        "country": ""
+        "street": "Schleusenufer 3",
+        "zip": "10997",
+        "city": "Berlin",
+        "country": "Germany"
       },
 
-      "genre": "",
+      "genre": ["Techno", "Deep House", "Tech House", "Pop", "Disco", "RnB"],
 
-      "capacity": 1234,
+      "capacity": 1000,
       "src": {
-        "ra_guide": "",
-        "iframe": ""
+        "ra_guide": "https://de.ra.co/clubs/104289",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.9687548276743!2d13.447408476771761!3d52.49780517205537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e5478d48e77%3A0xae2b723bbe9b5ac9!2sBirgit!5e0!3m2!1sde!2sde!4v1717758589891!5m2!1sde!2sde"
       }
     },
 
     {
       "id": 4,
-      "name": "",
-      "image": " ",
+      "name": "Club der Visionäre",
+      "image": "",
       "description": 1,
 
       "address": {
@@ -90,7 +90,7 @@
 
     {
       "id": 5,
-      "name": "",
+      "name": "Else",
       "image": " ",
       "description": 1,
 
@@ -112,7 +112,7 @@
 
     {
       "id": 6,
-      "name": "",
+      "name": "Golden Gate",
       "image": " ",
       "description": 1,
 
@@ -134,7 +134,7 @@
 
     {
       "id": 7,
-      "name": "",
+      "name": "Havanna",
       "image": " ",
       "description": 1,
 
@@ -156,7 +156,7 @@
 
     {
       "id": 8,
-      "name": "",
+      "name": "808 Berlin",
       "image": " ",
       "description": 1,
 
@@ -178,45 +178,45 @@
 
     {
       "id": 9,
-      "name": "",
-      "image": " ",
-      "description": 1,
+      "name": "Hoppetosse",
+      "image": "https://imgproxy.ra.co/_/quality:66/w:1442/rt:fill/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL2xnL2RlLWhvcHBldG9zc2UtYmVybGluLmpwZz9kYXRlVXBkYXRlZD0xNTE5MDU4MDM3NjM3",
+      "description": "Hoppetosse is the on-water sister venue to the well-known Club der Visionäre. It's a permanently docked boat (dubbed MS Hoppetosse), located on the Spree not far from Arena Club. There's usually one dance floor—surrounded by crystal-clear Morf speakers from Mo Stern—in action at parties, which usually take place on the weekends. Like its smaller neighbour, Hoppetosse's booking policy focusses on minimalist house and techno, delivered by a combination of local favourites and a rotating cast of the style's key names.",
 
       "address": {
-        "street": "",
-        "zip": "",
-        "city": "",
-        "country": ""
+        "street": "Eichenstrasse 4",
+        "zip": "12435",
+        "city": "Berlin",
+        "country": "Germany"
       },
 
-      "genre": "",
+      "genre": ["Techno", "Minimalist House"],
 
-      "capacity": 1234,
+      "capacity": 125,
       "src": {
-        "ra_guide": "",
-        "iframe": ""
+        "ra_guide": "https://de.ra.co/clubs/9585",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4857.967360320506!2d13.4547!3d52.497535!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e5573a0df1d%3A0xfa102535b24107b5!2sMS%20Hoppetosse!5e0!3m2!1sde!2sus!4v1717759335482!5m2!1sde!2sus"
       }
     },
 
     {
       "id": 10,
-      "name": "",
-      "image": " ",
-      "description": 1,
+      "name": "Humboldthain",
+      "image": "https://imgproxy.ra.co/_/quality:66/w:1442/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vNDMzYTljZjc3N2Q1MGQ3OTllN2YwMzhjZWEwNzBiZDUwZDJlZjcxZi5wbmc=",
+      "description": "A visit to Humboldthain can mean two things: Strolling in a public park or dancing in the club of the same name around the corner. Those who like it quiet will prefer the green oasis created in the 19th century, while those who like to dance late into the night should visit the Humboldthain club.\n\nLocated in the Wedding district, the club is easy to reach thanks to its direct location next to the S-Bahn station and is certainly not the only reason why it is a popular venue for a cheerful, colorful crowd. Humboldthain offers a varied program with parties covering different music genres, but mainly with electronic roots.",
 
       "address": {
-        "street": "",
-        "zip": "",
-        "city": "",
-        "country": ""
+        "street": "Hochstraße 46",
+        "zip": "13357",
+        "city": "Berlin",
+        "country": "Germany"
       },
 
-      "genre": "",
+      "genre": ["Techno", "House", "Trance", "EDM", "Hip-Hop"],
 
       "capacity": 1234,
       "src": {
-        "ra_guide": "",
-        "iframe": ""
+        "ra_guide": "https://de.ra.co/clubs/78234",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2426.3941937861587!2d13.37596447677449!3d52.544394172067555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a8518991e8afad%3A0x7340195fb5c93dc4!2sHumboldthain%20Club!5e0!3m2!1sde!2sde!4v1717756113081!5m2!1sde!2sde"
       }
     },
 
