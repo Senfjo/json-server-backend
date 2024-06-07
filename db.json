@@ -2,32 +2,661 @@
   "projects": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
     },
+
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
     },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
+
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 4,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 5,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 6,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 7,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 8,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 9,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 10,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 11,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 12,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 13,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 14,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 15,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 16,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 17,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 18,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 19,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 20,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 21,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 22,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 23,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 24,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 25,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+    {
+      "id": 26,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 27,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 28,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 29,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
+    },
+
+    {
+      "id": 30,
+      "name": "",
+      "image": " ",
+      "description": 1,
+
+      "address": {
+        "street": "",
+        "zip": "",
+        "city": "",
+        "country": ""
+      },
+
+      "genre": "",
+
+      "capacity": 1234,
+      "src": {
+        "ra_guide": "",
+        "iframe": ""
+      }
     }
   ]
 }
