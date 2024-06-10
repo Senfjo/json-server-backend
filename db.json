@@ -1,5 +1,5 @@
 {
-  "projects": [
+  "clubs": [
     {
       "id": 1,
       "name": "://about blank",
@@ -25,7 +25,7 @@
     {
       "id": 2,
       "name": "Berghain",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Techno-Club_About_Blank_Markgrafendamm_Berlin.jpg",
+      "image": "https://www.dj-lab.de/app/uploads/2022/12/berghain-vollstaendiges-prgroamm-fuer-silvester-veroeffentlicht.jpeg",
       "description": "Sitting in a dusty lot on the border of Kreuzberg and Friedrichshain, Berghain is widely considered one of the world's best nightclubs. It has three dance floors: Berghain, a dark main room where most DJs play techno, Panorama Bar, an upstairs space that's more focused on house, and the Säule on ground floor, though the music policy in all rooms is very open-ended. (There's also a men's-only club on the first level called Lab.Oratory, the occasionally used Halle and a smaller club with a separate entrance called Kantine am Berghain.)\n\nA number of details give Berghain its cult appeal: its residents, which include Steffi, Tama Sumo, Marcel Dettmann and Ben Klock, its set lengths, which range from three hours to more than eight, and its decor, which is mostly metal and poured concrete, with 30 meter ceilings and seemingly endless nooks and crannies.\n\nMost of the parties are extremely long: Friday night events usually wrap up early Saturday afternoon, but Saturdays typically run well into Monday morning. Perhaps the most notorious aspect of the club is its door policy—hundreds of people are turned away each weekend, including regulars, often for reasons that are completely mysterious to everyone except the doormen.",
 
       "address": {
@@ -69,94 +69,94 @@
     {
       "id": 4,
       "name": "Club der Visionäre",
-      "image": "",
-      "description": 1,
+      "image": "https://imgproxy.ra.co/_/quality:66/w:1442/rt:fill/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL2xnL2RlLWNsdWItZGVyLXZpc2lvbmFlcmUtYmVybGluLmpwZz9kYXRlVXBkYXRlZD0xNjEwMjEyNDM3NTIw",
+      "description": "Beautiful people and delicious cocktails make the time here fly by. And the wait for the next beautiful summer evening in the club can seem endless.",
 
       "address": {
-        "street": "",
-        "zip": "",
-        "city": "",
-        "country": ""
+        "street": "Am Flutgraben 1",
+        "zip": "12435",
+        "city": "Berlin",
+        "country": "Germany"
       },
 
-      "genre": "",
+      "genre": "Techno",
 
-      "capacity": 1234,
+      "capacity": 150,
       "src": {
-        "ra_guide": "",
-        "iframe": ""
+        "ra_guide": "https://de.ra.co/clubs/6949",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2429.024819942881!2d13.450459700000001!3d52.49679030000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e54f57a6bc9%3A0x2b21a748e28ac348!2sClub%20der%20Visionaere!5e0!3m2!1sde!2sde!4v1717950873736!5m2!1sde!2sde"
       }
     },
 
     {
       "id": 5,
       "name": "Else",
-      "image": " ",
-      "description": 1,
+      "image": "https://static.ra.co/images/news/2020/berlin-events-coming-back-report.jpg",
+      "description": "Dancing in the open air. This is possible in many places in Berlin, but the Else am Treptower Park welcomes its guests with a very special charm. The entire dance floor has a wooden floor and many other wooden elements and platforms, some of them colourful, make the club a unique place that gives you the feeling of being at a festival rather than in the middle of Berlin. During the summer months, there are parties here every Sunday and the young, hip crowd is hardly interested in the approaching Monday. The booking focusses on house and techno.",
 
       "address": {
-        "street": "",
-        "zip": "",
-        "city": "",
-        "country": ""
+        "street": "An den Treptowers 10",
+        "zip": "12435",
+        "city": "Berlin",
+        "country": "Germany"
       },
 
-      "genre": "",
+      "genre": "Techno",
 
-      "capacity": 1234,
+      "capacity": 900,
       "src": {
-        "ra_guide": "",
-        "iframe": ""
+        "ra_guide": "https://de.ra.co/clubs/79607",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d607.2819505327824!2d13.461648669660297!3d52.494926114760574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84efe6f17b875%3A0xffd76e48309d679!2sAn%20den%20Treptowers%2010%2C%2012435%20Berlin!5e0!3m2!1sde!2sde!4v1717951219823!5m2!1sde!2sde"
       }
     },
 
     {
       "id": 6,
       "name": "Golden Gate",
-      "image": " ",
+      "image": "https://dispatcheseurope.com/wp-content/uploads/2024/02/Golden-Gate1.jpg",
       "description": 1,
 
       "address": {
-        "street": "",
-        "zip": "",
-        "city": "",
-        "country": ""
+        "street": "Dircksenstrasse 78",
+        "zip": "10178",
+        "city": "Berlin",
+        "country": "Germany"
       },
 
-      "genre": "",
+      "genre": ["Techno", "House"],
 
-      "capacity": 1234,
+      "capacity": 500,
       "src": {
-        "ra_guide": "",
-        "iframe": ""
+        "ra_guide": "https://de.ra.co/clubs/8009",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.9660851378185!2d13.41449337652923!3d52.51595283652934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84fbbda7f045d%3A0xc62d197ae575e60f!2sGolden%20Gate!5e0!3m2!1sde!2sde!4v1717951708093!5m2!1sde!2sde"
       }
     },
 
     {
       "id": 7,
       "name": "Havanna",
-      "image": " ",
-      "description": 1,
+      "image": "https://images.squarespace-cdn.com/content/v1/568d0402a128e6a4d712eadf/1553531500045-28QUXO1SPHMPGVQR0QNC/IMG_2233.JPG",
+      "description": "Temperament, a sense of rhythm and plenty of movement: Havana makes you feel like you're in South America.Cha Cha Cha, Mambo, Salsa and everything else that puts you in a good mood is danced on several levels. Even amateurs can have fun, here everyone shows everyone how it's done.",
 
       "address": {
-        "street": "",
-        "zip": "",
-        "city": "",
-        "country": ""
+        "street": "Hauptstr. 30",
+        "zip": "10827",
+        "city": "Berlin",
+        "country": "Germany"
       },
 
-      "genre": "",
+      "genre": ["RnB", "Reggaeton", "Salsa" ],
 
-      "capacity": 1234,
+      "capacity": "undefined",
       "src": {
         "ra_guide": "",
-        "iframe": ""
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2429.6697499144284!2d13.353549!3d52.485115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a85041b6302bc7%3A0x6493424658fe5283!2sHavanna%20Berlin!5e0!3m2!1sde!2sde!4v1717952155780!5m2!1sde!2sde"
       }
     },
 
     {
       "id": 8,
-      "name": "808 Berlin",
+      "name": "Gretchen",
       "image": " ",
       "description": 1,
 
