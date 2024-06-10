@@ -273,7 +273,7 @@
       "address": {
         "street": "Warschauer Platz 18",
         "zip": 10245,
-        "city": "berlin",
+        "city": "Berlin",
         "country": "Germany"
       },
 
@@ -628,7 +628,7 @@
         "country": "Germany"
       },
 
-      "genre": ["Reggae", "Dancehall", "Hip Hop", "Afrobeat", "Dub"],
+      "genre": ["Reggae", "Dancehall", "Hip-Hop", "Afrobeat", "Dub"],
 
       "capacity": 3000,
       "src": {
@@ -650,7 +650,7 @@
         "country": "Germany"
       },
 
-      "genre": ["Hip-Hop", "R'n'B", "Downbeat"],
+      "genre": ["Hip-Hop", "RnB", "Downbeat"],
 
       "capacity": 300,
       "src": {
