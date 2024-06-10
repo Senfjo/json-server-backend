@@ -147,7 +147,7 @@
 
       "genre": ["RnB", "Reggaeton", "Salsa" ],
 
-      "capacity": "undefined",
+      "capacity": "no information",
       "src": {
         "ra_guide": "",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2429.6697499144284!2d13.353549!3d52.485115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a85041b6302bc7%3A0x6493424658fe5283!2sHavanna%20Berlin!5e0!3m2!1sde!2sde!4v1717952155780!5m2!1sde!2sde"
@@ -157,22 +157,22 @@
     {
       "id": 8,
       "name": "Gretchen",
-      "image": " ",
-      "description": 1,
+      "image": "https://www.berlin.de/binaries/asset/image_assets/8871435/ratio_2_1/1715924582/1000x500/",
+      "description": "The former factory site in the centre of Kreuzberg is a great place to party until the early hours. You can relax on lounge furniture after a strenuous dance and fortify yourself with a snack for the next round of dancing.",
 
       "address": {
-        "street": "",
-        "zip": "",
-        "city": "",
-        "country": ""
+        "street": "Obentrautstr. 19-21",
+        "zip": "10963",
+        "city": "Berlin",
+        "country": "Germany"
       },
 
-      "genre": "",
+      "genre": ["Techno", "Jazz", "House"],
 
-      "capacity": 1234,
+      "capacity": 500,
       "src": {
-        "ra_guide": "",
-        "iframe": ""
+        "ra_guide": "https://de.ra.co/clubs/51972",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4858.136735783983!2d13.38769!3d52.496002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a8502961b61633%3A0x8b2011b627ca60f3!2sGretchen!5e0!3m2!1sde!2sus!4v1718021340696!5m2!1sde!2sus"
       }
     },
 
@@ -223,7 +223,7 @@
     {
       "id": 11,
       "name": "Kater Blau",
-      "image": "https://www.google.com/imgres?q=kater%20blau%20berlin&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9d%2FKater_Blau_Berlin.JPG%2F1200px-Kater_Blau_Berlin.JPG&imgrefurl=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FKater_Blau&docid=2vq0qae0F23fiM&tbnid=zLM8eP1kdnB63M&vet=12ahUKEwjLhJqmtcmGAxWYSPEDHWCXHcwQM3oECBwQAA..i&w=1200&h=513&hcb=2&ved=2ahUKEwjLhJqmtcmGAxWYSPEDHWCXHcwQM3oECBwQAA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kater_Blau_Berlin.JPG/1200px-Kater_Blau_Berlin.JPG",
       "description": "Partying in the tradition of Bar 25 and Kater Holzig. These were the names of the two predecessor clubs of the collective that now runs Kater Blau, and Bar 25 in particular still has cult status today and makes many clubbers dream nostalgically of dances in the past. But Kater Blau is also located on the Spree, with house and techno, confetti, a colorful and cheerful crowd and parties that can go on for several days.",
 
       "address": {
@@ -245,7 +245,7 @@
     {
       "id": 12,
       "name": "KitKatClub",
-      "image": "https://www.google.com/imgres?q=KitKatClub%20berlin&imgurl=https%3A%2F%2Fwww.visitberlin.de%2Fsystem%2Ffiles%2Fstyles%2Fvisitberlin_hero_visitberlin_desktop_2x%2Fprivate%2Fimage%2FKitkat_Innen_c_hardcopy.press.de_web.jpg%3Fh%3D1c9b88c9%26itok%3DMQY1f_Gf&imgrefurl=https%3A%2F%2Fwww.visitberlin.de%2Fde%2Fkitkatclub&docid=Jj2nupkd8UDo2M&tbnid=3kc2m_MLg_GZJM&vet=12ahUKEwiZ4ti3tcmGAxVXB9sEHS4HPQ4QM3oECBUQAA..i&w=2480&h=1034&hcb=2&ved=2ahUKEwiZ4ti3tcmGAxVXB9sEHS4HPQ4QM3oECBUQAA",
+      "image": "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/image/Kitkat_Innen_c_hardcopy.press.de_web.jpg?h=1c9b88c9&itok=MQY1f_Gf",
       "description": "The KitKatClub is a permanent fixture in Berlin's nightlife and is also known internationally for its wild and hedonistic parties. The motto here is: the less, the better! Permissiveness and fetish wear are welcome. The atmosphere in the former Sage club is sex-positive and friendly to informal, the DJ plays electronic music, there are concerts and cabaret. Best day: “Carneball Bizarre” on Saturdays.",
 
       "address": {
@@ -267,7 +267,7 @@
     {
       "id": 13,
       "name": "Matrix",
-      "image": "https://www.google.com/imgres?q=Matrix%20club%20berlin&imgurl=https%3A%2F%2Fwww.tagesspiegel.de%2Fimages%2Fmatrix-365%2Falternates%2FBASE_21_9_W1000%2Fmatrix-365&imgrefurl=https%3A%2F%2Fwww.tagesspiegel.de%2Fberlin%2Fberliner-wirtschaft%2Fgrossraumdisko-matrix-in-berlin-party-an-365-tagen-fur-alle-die-noch-halbwegs-gerade-stehen-konnen-9094408.html&docid=w785k5oN1HK1UM&tbnid=hNap3AhRjbqp4M&vet=12ahUKEwjppLzEtcmGAxV-cPEDHVOpDpgQM3oECBgQAA..i&w=1000&h=428&hcb=2&ved=2ahUKEwjppLzEtcmGAxV-cPEDHVOpDpgQM3oECBgQAA",
+      "image": "https://www.tagesspiegel.de/images/matrix-365/alternates/BASE_21_9_W1000/matrix-365",
       "description": "In the heart of the Friedrichshain neighborhood, you'll find the iconic Matrix Club Berlin. With its pulsating beats, diverse lineup of DJs, and unique atmosphere, this legendary dance club has been a staple in Berlin's nightlife since its opening in 1996.",
 
       "address": {
@@ -289,7 +289,7 @@
     {
       "id": 14,
       "name": "Mensch Meier",
-      "image": "https://www.google.com/imgres?q=Mensch%20Meier%20berlin&imgurl=https%3A%2F%2Ftaz.de%2Fpicture%2F6436346%2F948%2FMM-1.jpeg&imgrefurl=https%3A%2F%2Ftaz.de%2FMensch-Meier-von-Schliessung-bedroht%2F!5949138%2F&docid=NZWDN1joAGHvKM&tbnid=UzjOucRGJnF-tM&vet=12ahUKEwiR0JPPtcmGAxXXB9sEHc6dAEMQM3oECBMQAA..i&w=948&h=474&hcb=2&ved=2ahUKEwiR0JPPtcmGAxXXB9sEHc6dAEMQM3oECBMQAA",
+      "image": "https://taz.de/picture/6436346/948/MM-1.jpeg",
       "description": "The flat building in Friedrichshain may only have 3 dance floors, but it's still easy to lose your bearings: angled, foggy and a little run-down, it's all about techno, hip-hop/funk and drum'n'bass. The crowd is mixed and casual - you just come as you are and enjoy the music.",
 
       "address": {
@@ -311,7 +311,7 @@
     {
       "id": 15,
       "name": "Metropol",
-      "image": "https://www.google.com/imgres?q=Metropol%20berlin&imgurl=https%3A%2F%2Fmetropol-berlin.de%2Fwp-content%2Fuploads%2F2019%2F09%2F02.jpg&imgrefurl=https%3A%2F%2Fmetropol-berlin.de%2Fevent-location&docid=AkuAzexY4wSM2M&tbnid=vFfeZg04Wng0cM&vet=12ahUKEwizzv7YtcmGAxXpSfEDHb45N7QQM3oECEwQAA..i&w=1500&h=1055&hcb=2&ved=2ahUKEwizzv7YtcmGAxXpSfEDHb45N7QQM3oECEwQAA",
+      "image": "https://metropol-berlin.de/wp-content/uploads/2019/09/02.jpg",
       "description": "The Metropol, also known as the Theater am Nollendorfplatz, Neues Schauspielhaus and Goya, is the most striking building at Nollendorfplatz 5 in the Schöneberg district of Berlin.",
 
       "address": {
@@ -333,7 +333,7 @@
     {
       "id": 16,
       "name": "Renate",
-      "image": "https://www.google.com/imgres?q=Renate%20berlin&imgurl=https%3A%2F%2Fdatatransmission.co%2Fwp-content%2Fuploads%2F2018%2F12%2F8a6d113b-fcf7-4268-b6db-a977ac9d5ae5-kater-blau.jpg&imgrefurl=https%3A%2F%2Fdatatransmission.co%2Fclub-review%2Freviewed-berlins-wilden-renate-and-kater-blau%2F&docid=EiomYnytQjIL1M&tbnid=JtO2XZODDBMOHM&vet=12ahUKEwi02tzhtcmGAxX3BNsEHYJzAOcQM3oFCIMBEAA..i&w=1200&h=799&hcb=2&ved=2ahUKEwi02tzhtcmGAxX3BNsEHYJzAOcQM3oFCIMBEAA",
+      "image": "https://datatransmission.co/wp-content/uploads/2018/12/8a6d113b-fcf7-4268-b6db-a977ac9d5ae5-kater-blau.jpg",
       "description":"Born from an unrenovated apartment building in Friedrichshain, across the river from Treptower Park. Salon Zur Wilden Renate has three main dance floors: Schwarzer Raum on the ground floor, mainly focussing on techno. Then upstairs there is Grüner Raum where it’s all about house, and Roter Raum for all things slow, weird and trippy disco. The atmosphere is that of a theatrical house party. The booking is a mixture of international and local artists. A large outdoor courtyard is open during the summer, which provides another bar with food and plenty of space to hang out.",
 
       "address": {
@@ -355,7 +355,7 @@
     {
       "id": 17,
       "name": "M-bia",
-      "image": "https://www.google.com/imgres?q=M-bia%20berlin&imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F29%2F11%2Fe7%2F9f%2Fm-bia-is-not-just-any.jpg%3Fw%3D1200%26h%3D1200%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.co.uk%2FAttraction_Review-g187323-d25374992-Reviews-M_BIA_club_berlin-Berlin.html&docid=xFyW5qZOpFZRoM&tbnid=qM-ZuXN8m9_Y1M&vet=12ahUKEwjSkuTttcmGAxU-S_EDHWhNLmcQM3oECBcQAA..i&w=1080&h=720&hcb=2&ved=2ahUKEwjSkuTttcmGAxU-S_EDHWhNLmcQM3oECBcQAA",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/11/e7/9f/m-bia-is-not-just-any.jpg?w=1200&h=1200&s=1",
       "description": "The location is not “centrally” chic, but deliberately old and minimalist. The club is centrally located on Alexanderplatz, under two S-Bahn arches. The old walls open up a playground with a cultivated underground character and a powerful sound system. The furniture was deliberately kept industrial in order to emphasize the club as such and not distract from its original atmosphere. Two differently styled floors and a lounge offer sufficient creative space for a varied range of international, national and local artists and renowned event series. Here you can enjoy consistent electronic sound.",
 
       "address": {
@@ -377,7 +377,7 @@
     {
       "id": 18,
       "name": "OST",
-      "image": " https://www.google.com/imgres?q=club%20OST%20berlin&imgurl=https%3A%2F%2Fstatic.ra.co%2Fimages%2Fnews%2F2017%2Fclub_ost_berlin_magdalena.jpg&imgrefurl=https%3A%2F%2Ffr.ra.co%2Fclubs%2F141987&docid=n4SkquS4foGgFM&tbnid=qo2u9o3zMHi48M&vet=12ahUKEwif6LT5tcmGAxVbBNsEHdUWGosQM3oECBcQAA..i&w=472&h=312&hcb=2&ved=2ahUKEwif6LT5tcmGAxVbBNsEHdUWGosQM3oECBcQAA",
+      "image": "https://static.ra.co/images/news/2017/club_ost_berlin_magdalena.jpg",
       "description": "OST, nestled between Osthafen and Ostkreuz, consciously focuses on musical gems with warm sounds from Berlin and the celestial planes.",
 
       "address": {
@@ -399,7 +399,7 @@
     {
       "id": 19,
       "name": "OHM",
-      "image": "https://www.google.com/imgres?q=club%20OHM%20berlin&imgurl=https%3A%2F%2Fwww.technostation.tv%2Fwp-content%2Fuploads%2F2022%2F06%2Fohm-berlin-EWeJ1-770x514.jpg&imgrefurl=https%3A%2F%2Fwww.technostation.tv%2Fclub-zoom-in-ohm%2F&docid=FAPdFe0MWNB9yM&tbnid=u_10k6hSRHsiRM&vet=12ahUKEwimpcmDtsmGAxX5Q_EDHUX4KYsQM3oECCwQAA..i&w=770&h=514&hcb=2&ved=2ahUKEwimpcmDtsmGAxX5Q_EDHUX4KYsQM3oECCwQAA",
+      "image": "https://www.technostation.tv/wp-content/uploads/2022/06/ohm-berlin-EWeJ1-770x514.jpg",
       "description": "OHM is located very close to the Berlin club institution Tresor. Just like the prominent neighboring club, OHM plays electronic music, mainly techno and house, but also some more offbeat music. The club is a pleasantly manageable size and is appreciated by those in the know.  The club's program managers are also open to art and so there are regular parties that combine music and installations or performances. Exciting.",
 
       "address": {
@@ -421,7 +421,7 @@
     {
       "id": 20,
       "name": "Ritter Butzke",
-      "image": "https://www.google.com/imgres?q=Ritter%20Butzke%20berlin&imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F1e%2F02%2Fdc%2F54%2Finnenhof.jpg%3Fw%3D1200%26h%3D-1%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.de%2FAttraction_Review-g187323-d4014696-Reviews-Ritter_Butzke-Berlin.html&docid=1LaKJN2OcODy_M&tbnid=qohgK5ZjndfAFM&vet=12ahUKEwjO_tKMtsmGAxXaQfEDHcGiFA8QM3oECBYQAA..i&w=1200&h=801&hcb=2&ved=2ahUKEwjO_tKMtsmGAxXaQfEDHcGiFA8QM3oECBYQAA",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/02/dc/54/innenhof.jpg?w=1200&h=-1&s=1",
       "description": "Ritter Butzke is located on the ground floor of a former factory in Kreuzberg. It began as an illegal club in 2007, but went official two years later. The venue has three main dance floors, plus an outdoor courtyard that's open in the summer. Musically the main focus is House & Techno. The DJs and the crowd are most often Berliners. The club has a big cast of residents and regulars that has included Niconé, Matthias Schuell and Prismode & Solvane.",
 
       "address": {
@@ -510,7 +510,7 @@
       "id": 24,
       "name": "SO36",
       "image": "https://www.berlin.de/binaries/asset/image_assets/8872041/source/1715924626/1000x500/",
-      "description": "The club's guests and programme are as colourful as Kreuzberg itself: Schlager parties, standard dance classes, radio play evenings, techno parties and rock concerts. The programme is topped off by regular party series, such as the ‘My ugly X’ bad button party, the homo-oriental night ‘Gayhane’ or the ‘Night Flea Market’.",
+      "description": "The club's guests and programme are as colourful as Kreuzberg itself: Schlager parties, standard dance classes, radio play evenings, techno parties and rock concerts. The programme is topped off by regular party series, such as the 'My ugly X' bad button party, the homo-oriental night 'Gayhane' or the 'Night Flea Market'.",
 
       "address": {
         "street": "Oranienstraße 190",
