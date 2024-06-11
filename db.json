@@ -5,544 +5,524 @@
       "name": "://about blank",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Techno-Club_About_Blank_Markgrafendamm_Berlin.jpg",
       "description": "://about blank is a formerly illegal, multi-room club by Ostkreuz S-Bahnhof in Friedrichshain. It's a short walk from Salon Zur Wilde Renate, and like that club, it's a lightly renovated re-purposed building with seemingly endless nooks and crannies. There are two main dance floors inside, and in the summer DJs play out in the garden (this is open in the winter too, often with a bonfire going).\n\nThe music policy is open-ended but mostly focused on house and techno, with occasional bass or disco nights. The overall atmosphere is gritty, and the parties often go well into the following afternoon or evening.",
-
       "address": {
         "street": "Markgrafendamm 24c",
         "zip": "10245",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["House", "Techno"],
-
+      "genre": [
+        "House",
+        "Techno"
+      ],
       "capacity": 800,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/28354",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.707603093911!2d13.463797876771983!3d52.502532272056555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84ef9ee28277f%3A0x9ba3bce436e2b6ae!2zOi8vYWJvdXQgYmxhbms!5e0!3m2!1sde!2sde!4v1717755079052!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 2,
       "name": "Berghain",
       "image": "https://www.dj-lab.de/app/uploads/2022/12/berghain-vollstaendiges-prgroamm-fuer-silvester-veroeffentlicht.jpeg",
       "description": "Sitting in a dusty lot on the border of Kreuzberg and Friedrichshain, Berghain is widely considered one of the world's best nightclubs. It has three dance floors: Berghain, a dark main room where most DJs play techno, Panorama Bar, an upstairs space that's more focused on house, and the Säule on ground floor, though the music policy in all rooms is very open-ended. (There's also a men's-only club on the first level called Lab.Oratory, the occasionally used Halle and a smaller club with a separate entrance called Kantine am Berghain.)\n\nA number of details give Berghain its cult appeal: its residents, which include Steffi, Tama Sumo, Marcel Dettmann and Ben Klock, its set lengths, which range from three hours to more than eight, and its decor, which is mostly metal and poured concrete, with 30 meter ceilings and seemingly endless nooks and crannies.\n\nMost of the parties are extremely long: Friday night events usually wrap up early Saturday afternoon, but Saturdays typically run well into Monday morning. Perhaps the most notorious aspect of the club is its door policy—hundreds of people are turned away each weekend, including regulars, often for reasons that are completely mysterious to everyone except the doormen.",
-
       "address": {
         "street": "Am Wriezener Bahnhof",
         "zip": "10243",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno", "Hardgroove"],
-
+      "genre": [
+        "Techno",
+        "Hardgroove"
+      ],
       "capacity": 1500,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/5031",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.223601931593!2d13.440121876772514!3d52.5112923720588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e438bc65e9f%3A0x6bf6d41ba1fc757c!2sBerghain%20%7C%20Panorama%20Bar%20%7C%20S%C3%A4ule!5e0!3m2!1sde!2sde!4v1717757635633!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 3,
       "name": "Birgit und Bier",
       "image": "https://static.wixstatic.com/media/326c15_32ca9e211a7d4df5b189d2b2f47e4f19~mv2.jpg/v1/fill/w_1599,h_900,al_c,q_85,enc_auto/326c15_32ca9e211a7d4df5b189d2b2f47e4f19~mv2.jpg",
       "description": "In the very heart of Berlin's most colorful quarter, lies Birgit: a huge, magical playground for adults.\n\nOur Birgit reigns over three magnificent dance floors equipped with powerful Funktion One systems. Each floor is designed for a completely different musical style: Birgit's Wohnzimmer is a half open cosy living room for Berlin's finest Deep and Tech House. The Bunker floor is a powerful, hypnotizing Techno vault, and the Rummel floor is a fun floor where everything but electronic music is being played.\n\nWhether you are there to enjoy a cold, fresh keg beer or to lose yourself in Birgit's full weekend party program, Birgit is exactly the venue that offers you the best of everything you ever loved in the night.",
-
       "address": {
         "street": "Schleusenufer 3",
         "zip": "10997",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno", "Deep House", "Tech House", "Pop", "Disco", "RnB"],
-
+      "genre": [
+        "Techno",
+        "House",
+        "Pop",
+        "Disco",
+        "RnB"
+      ],
       "capacity": 1000,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/104289",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.9687548276743!2d13.447408476771761!3d52.49780517205537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e5478d48e77%3A0xae2b723bbe9b5ac9!2sBirgit!5e0!3m2!1sde!2sde!4v1717758589891!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 4,
       "name": "Club der Visionäre",
       "image": "https://imgproxy.ra.co/_/quality:66/w:1442/rt:fill/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL2xnL2RlLWNsdWItZGVyLXZpc2lvbmFlcmUtYmVybGluLmpwZz9kYXRlVXBkYXRlZD0xNjEwMjEyNDM3NTIw",
       "description": "Beautiful people and delicious cocktails make the time here fly by. And the wait for the next beautiful summer evening in the club can seem endless.",
-
       "address": {
         "street": "Am Flutgraben 1",
         "zip": "12435",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno"],
-
+      "genre": [
+        "Techno"
+      ],
       "capacity": 150,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/6949",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2429.024819942881!2d13.450459700000001!3d52.49679030000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e54f57a6bc9%3A0x2b21a748e28ac348!2sClub%20der%20Visionaere!5e0!3m2!1sde!2sde!4v1717950873736!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 5,
       "name": "Else",
       "image": "https://static.ra.co/images/news/2020/berlin-events-coming-back-report.jpg",
       "description": "Dancing in the open air. This is possible in many places in Berlin, but the Else am Treptower Park welcomes its guests with a very special charm. The entire dance floor has a wooden floor and many other wooden elements and platforms, some of them colourful, make the club a unique place that gives you the feeling of being at a festival rather than in the middle of Berlin. During the summer months, there are parties here every Sunday and the young, hip crowd is hardly interested in the approaching Monday. The booking focusses on house and techno.",
-
       "address": {
         "street": "An den Treptowers 10",
         "zip": "12435",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno"],
-
+      "genre": [
+        "Techno"
+      ],
       "capacity": 900,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/79607",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d607.2819505327824!2d13.461648669660297!3d52.494926114760574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84efe6f17b875%3A0xffd76e48309d679!2sAn%20den%20Treptowers%2010%2C%2012435%20Berlin!5e0!3m2!1sde!2sde!4v1717951219823!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 6,
       "name": "Golden Gate",
       "image": "https://dispatcheseurope.com/wp-content/uploads/2024/02/Golden-Gate1.jpg",
       "description": 1,
-
       "address": {
         "street": "Dircksenstrasse 78",
         "zip": "10178",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno", "House"],
-
+      "genre": [
+        "Techno",
+        "House"
+      ],
       "capacity": 500,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/8009",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.9660851378185!2d13.41449337652923!3d52.51595283652934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84fbbda7f045d%3A0xc62d197ae575e60f!2sGolden%20Gate!5e0!3m2!1sde!2sde!4v1717951708093!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 7,
       "name": "Havanna",
       "image": "https://images.squarespace-cdn.com/content/v1/568d0402a128e6a4d712eadf/1553531500045-28QUXO1SPHMPGVQR0QNC/IMG_2233.JPG",
       "description": "Temperament, a sense of rhythm and plenty of movement: Havana makes you feel like you're in South America.Cha Cha Cha, Mambo, Salsa and everything else that puts you in a good mood is danced on several levels. Even amateurs can have fun, here everyone shows everyone how it's done.",
-
       "address": {
         "street": "Hauptstr. 30",
         "zip": "10827",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["RnB", "Reggaeton", "Salsa" ],
-
-      "capacity": "no information",
+      "genre": [
+        "RnB",
+        "Reggaeton",
+        "Salsa"
+      ],
+      "capacity": "350",
       "src": {
         "ra_guide": "",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2429.6697499144284!2d13.353549!3d52.485115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a85041b6302bc7%3A0x6493424658fe5283!2sHavanna%20Berlin!5e0!3m2!1sde!2sde!4v1717952155780!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 8,
       "name": "Gretchen",
       "image": "https://www.berlin.de/binaries/asset/image_assets/8871435/ratio_2_1/1715924582/1000x500/",
       "description": "The former factory site in the centre of Kreuzberg is a great place to party until the early hours. You can relax on lounge furniture after a strenuous dance and fortify yourself with a snack for the next round of dancing.",
-
       "address": {
         "street": "Obentrautstr. 19-21",
         "zip": "10963",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno", "Jazz", "House"],
-
+      "genre": [
+        "Techno",
+        "Jazz",
+        "House"
+      ],
       "capacity": 500,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/51972",
         "iframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4858.136735783983!2d13.38769!3d52.496002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a8502961b61633%3A0x8b2011b627ca60f3!2sGretchen!5e0!3m2!1sde!2sus!4v1718021340696!5m2!1sde!2sus"
       }
     },
-
     {
       "id": 9,
       "name": "Hoppetosse",
       "image": "https://imgproxy.ra.co/_/quality:66/w:1442/rt:fill/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL2xnL2RlLWhvcHBldG9zc2UtYmVybGluLmpwZz9kYXRlVXBkYXRlZD0xNTE5MDU4MDM3NjM3",
       "description": "Hoppetosse is the on-water sister venue to the well-known Club der Visionäre. It's a permanently docked boat (dubbed MS Hoppetosse), located on the Spree not far from Arena Club. There's usually one dance floor—surrounded by crystal-clear Morf speakers from Mo Stern—in action at parties, which usually take place on the weekends. Like its smaller neighbour, Hoppetosse's booking policy focusses on minimalist house and techno, delivered by a combination of local favourites and a rotating cast of the style's key names.",
-
       "address": {
         "street": "Eichenstrasse 4",
         "zip": "12435",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno", "Minimalist House"],
-
+      "genre": [
+        "Techno",
+        "House"
+      ],
       "capacity": 125,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/9585",
         "iframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4857.967360320506!2d13.4547!3d52.497535!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e5573a0df1d%3A0xfa102535b24107b5!2sMS%20Hoppetosse!5e0!3m2!1sde!2sus!4v1717759335482!5m2!1sde!2sus"
       }
     },
-
     {
       "id": 10,
       "name": "Humboldthain",
       "image": "https://imgproxy.ra.co/_/quality:66/w:1442/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vNDMzYTljZjc3N2Q1MGQ3OTllN2YwMzhjZWEwNzBiZDUwZDJlZjcxZi5wbmc=",
       "description": "A visit to Humboldthain can mean two things: Strolling in a public park or dancing in the club of the same name around the corner. Those who like it quiet will prefer the green oasis created in the 19th century, while those who like to dance late into the night should visit the Humboldthain club.\n\nLocated in the Wedding district, the club is easy to reach thanks to its direct location next to the S-Bahn station and is certainly not the only reason why it is a popular venue for a cheerful, colorful crowd. Humboldthain offers a varied program with parties covering different music genres, but mainly with electronic roots.",
-
       "address": {
         "street": "Hochstraße 46",
         "zip": "13357",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno", "House", "Trance", "EDM", "Hip-Hop"],
-
+      "genre": [
+        "Techno",
+        "House",
+        "Trance",
+        "EDM",
+        "Hip-Hop"
+      ],
       "capacity": 400,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/78234",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2426.3941937861587!2d13.37596447677449!3d52.544394172067555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a8518991e8afad%3A0x7340195fb5c93dc4!2sHumboldthain%20Club!5e0!3m2!1sde!2sde!4v1717756113081!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 11,
       "name": "Kater Blau",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kater_Blau_Berlin.JPG/1200px-Kater_Blau_Berlin.JPG",
       "description": "Partying in the tradition of Bar 25 and Kater Holzig. These were the names of the two predecessor clubs of the collective that now runs Kater Blau, and Bar 25 in particular still has cult status today and makes many clubbers dream nostalgically of dances in the past. But Kater Blau is also located on the Spree, with house and techno, confetti, a colorful and cheerful crowd and parties that can go on for several days.",
-
       "address": {
         "street": "Holzmarktstr. 25",
         "zip": 10243,
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno"],
-
+      "genre": [
+        "Techno"
+      ],
       "capacity": 800,
       "src": {
         "ra_guide": "https://ra.co/clubs/99161",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.1884275608886!2d13.420517588609925!3d52.511928964793356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e3b8cebdc1f%3A0x379649060b0ad6ec!2sKater%20Blau!5e0!3m2!1sde!2sus!4v1717757530476!5m2!1sde!2sus"
       }
     },
-
     {
       "id": 12,
       "name": "KitKatClub",
       "image": "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/image/Kitkat_Innen_c_hardcopy.press.de_web.jpg?h=1c9b88c9&itok=MQY1f_Gf",
       "description": "The KitKatClub is a permanent fixture in Berlin's nightlife and is also known internationally for its wild and hedonistic parties. The motto here is: the less, the better! Permissiveness and fetish wear are welcome. The atmosphere in the former Sage club is sex-positive and friendly to informal, the DJ plays electronic music, there are concerts and cabaret. Best day: “Carneball Bizarre” on Saturdays.",
-
       "address": {
         "street": "Köpenicker Str. 76",
         "zip": 10179,
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno"],
-
+      "genre": [
+        "Techno"
+      ],
       "capacity": 400,
       "src": {
         "ra_guide": "https://ra.co/clubs/10546",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4856.459739321644!2d13.41418947628003!3d52.51117893688311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e25326bd085%3A0xdfc6268a626d40c7!2sKitKatClub!5e0!3m2!1sde!2sus!4v1717755043149!5m2!1sde!2sus"
       }
     },
-
     {
       "id": 13,
       "name": "Matrix",
       "image": "https://www.tagesspiegel.de/images/matrix-365/alternates/BASE_21_9_W1000/matrix-365",
       "description": "In the heart of the Friedrichshain neighborhood, you'll find the iconic Matrix Club Berlin. With its pulsating beats, diverse lineup of DJs, and unique atmosphere, this legendary dance club has been a staple in Berlin's nightlife since its opening in 1996.",
-
       "address": {
         "street": "Warschauer Platz 18",
         "zip": 10245,
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Hip-Hop", "House", "Pop", "Rock", "RnB"],
-
+      "genre": [
+        "Hip-Hop",
+        "House",
+        "Pop",
+        "Rock",
+        "RnB"
+      ],
       "capacity": 2500,
       "src": {
         "ra_guide": "https://ra.co/clubs/49006",
-        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.5903462556034!2d13.446759976279571!3d52.50465463736598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e508a8effc7%3A0xd8804c6339116562!2sMatrix%20Club%20Berlin!5e0!3m2!1sde!2sus!4v1717758242321!5m2!1sde!2sus" 
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.5903462556034!2d13.446759976279571!3d52.50465463736598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e508a8effc7%3A0xd8804c6339116562!2sMatrix%20Club%20Berlin!5e0!3m2!1sde!2sus!4v1717758242321!5m2!1sde!2sus"
       }
     },
-
     {
       "id": 14,
       "name": "Mensch Meier",
       "image": "https://taz.de/picture/6436346/948/MM-1.jpeg",
       "description": "The flat building in Friedrichshain may only have 3 dance floors, but it's still easy to lose your bearings: angled, foggy and a little run-down, it's all about techno, hip-hop/funk and drum'n'bass. The crowd is mixed and casual - you just come as you are and enjoy the music.",
-
       "address": {
         "street": "Storkowerstr. 121",
         "zip": 10407,
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno"],
-
+      "genre": [
+        "Techno"
+      ],
       "capacity": 1100,
       "src": {
         "ra_guide": "https://ra.co/clubs/103373",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2426.904138855501!2d13.447541388620118!3d52.53516856308836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e75d5c261e5%3A0x15d3553a81c0bbe4!2sStorkower%20Str.%20121%2C%2010407%20Berlin%2C%20Deutschland!5e0!3m2!1sde!2sus!4v1717755840386!5m2!1sde!2sus"
       }
     },
-
     {
       "id": 15,
       "name": "Metropol",
       "image": "https://metropol-berlin.de/wp-content/uploads/2019/09/02.jpg",
       "description": "The Metropol, also known as the Theater am Nollendorfplatz, Neues Schauspielhaus and Goya, is the most striking building at Nollendorfplatz 5 in the Schöneberg district of Berlin.",
-
       "address": {
         "street": "Nollendorfpl. 5",
         "zip": 10777,
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Electro",  "Hip-Hop",  "House",  "Party",  "RnB"],
-
+      "genre": [
+        "Electro",
+        "Hip-Hop",
+        "House",
+        "Party",
+        "RnB"
+      ],
       "capacity": 1500,
       "src": {
         "ra_guide": "https://ra.co/clubs/171574",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.9026347601066!2d13.350151876279263!3d52.499002037784436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a8504e60b122fb%3A0x37e42222a704dfa4!2sMetropol!5e0!3m2!1sde!2sus!4v1717756130470!5m2!1sde!2sus"
       }
     },
-
     {
       "id": 16,
       "name": "Renate",
       "image": "https://datatransmission.co/wp-content/uploads/2018/12/8a6d113b-fcf7-4268-b6db-a977ac9d5ae5-kater-blau.jpg",
-      "description":"Born from an unrenovated apartment building in Friedrichshain, across the river from Treptower Park. Salon Zur Wilden Renate has three main dance floors: Schwarzer Raum on the ground floor, mainly focussing on techno. Then upstairs there is Grüner Raum where it’s all about house, and Roter Raum for all things slow, weird and trippy disco. The atmosphere is that of a theatrical house party. The booking is a mixture of international and local artists. A large outdoor courtyard is open during the summer, which provides another bar with food and plenty of space to hang out.",
-
+      "description": "Born from an unrenovated apartment building in Friedrichshain, across the river from Treptower Park. Salon Zur Wilden Renate has three main dance floors: Schwarzer Raum on the ground floor, mainly focussing on techno. Then upstairs there is Grüner Raum where it’s all about house, and Roter Raum for all things slow, weird and trippy disco. The atmosphere is that of a theatrical house party. The booking is a mixture of international and local artists. A large outdoor courtyard is open during the summer, which provides another bar with food and plenty of space to hang out.",
       "address": {
         "street": "Alt-Stralau 70",
         "zip": 10245,
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno"],
-
+      "genre": [
+        "Techno"
+      ],
       "capacity": 200,
       "src": {
         "ra_guide": "https://ra.co/clubs/8556",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.9902115048953!2d13.46280547667978!3d52.49741677205521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84efc03578bf9%3A0xad97372423804e62!2sAlt-Stralau%2070%2C%2010245%20Berlin%2C%20Deutschland!5e0!3m2!1sde!2sma!4v1717756360798!5m2!1sde!2sma"
       }
     },
-
     {
       "id": 17,
       "name": "M-bia",
       "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/11/e7/9f/m-bia-is-not-just-any.jpg?w=1200&h=1200&s=1",
       "description": "The location is not “centrally” chic, but deliberately old and minimalist. The club is centrally located on Alexanderplatz, under two S-Bahn arches. The old walls open up a playground with a cultivated underground character and a powerful sound system. The furniture was deliberately kept industrial in order to emphasize the club as such and not distract from its original atmosphere. Two differently styled floors and a lounge offer sufficient creative space for a varied range of international, national and local artists and renowned event series. Here you can enjoy consistent electronic sound.",
-
       "address": {
         "street": "Dircksenstr. 123",
         "zip": 10178,
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno"],
-
+      "genre": [
+        "Techno"
+      ],
       "capacity": 900,
       "src": {
         "ra_guide": "https://ra.co/clubs/18924",
-        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.5964910192!2d13.406656876280616!3d52.52264113603445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e1fc69c3947%3A0xd109eadcd082ab1e!2sM-Bia!5e0!3m2!1sde!2sus!4v1717759004721!5m2!1sde!2sus" 
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.5964910192!2d13.406656876280616!3d52.52264113603445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e1fc69c3947%3A0xd109eadcd082ab1e!2sM-Bia!5e0!3m2!1sde!2sus!4v1717759004721!5m2!1sde!2sus"
       }
     },
-
     {
       "id": 18,
       "name": "OST",
       "image": "https://static.ra.co/images/news/2017/club_ost_berlin_magdalena.jpg",
       "description": "OST, nestled between Osthafen and Ostkreuz, consciously focuses on musical gems with warm sounds from Berlin and the celestial planes.",
-
       "address": {
         "street": "Alt-Stralau 1-2",
         "zip": 10245,
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno"],
-
+      "genre": [
+        "Techno"
+      ],
       "capacity": 600,
       "src": {
         "ra_guide": "https://ra.co/clubs/141987",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2429.010922626298!2d13.460218688603367!3d52.49704186588531!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84efc1ea3ac99%3A0x6377694ed9f9fd5c!2sClub%20OST!5e0!3m2!1sde!2sus!4v1717759193170!5m2!1sde!2sus"
       }
     },
-
     {
       "id": 19,
       "name": "OHM",
       "image": "https://www.technostation.tv/wp-content/uploads/2022/06/ohm-berlin-EWeJ1-770x514.jpg",
       "description": "OHM is located very close to the Berlin club institution Tresor. Just like the prominent neighboring club, OHM plays electronic music, mainly techno and house, but also some more offbeat music. The club is a pleasantly manageable size and is appreciated by those in the know.  The club's program managers are also open to art and so there are regular parties that combine music and installations or performances. Exciting.",
-
       "address": {
         "street": "Köpenicker Str. 70",
         "zip": "10179",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno"],
-
+      "genre": [
+        "Techno"
+      ],
       "capacity": 200,
       "src": {
         "ra_guide": "https://ra.co/clubs/75457",
-        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.267408918811!2d13.417644676279973!3d52.510499536933416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e3ae53c6233%3A0x7d8531656bfc43a0!2sOHM!5e0!3m2!1sde!2sus!4v1717759384981!5m2!1sde!2sus" 
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.267408918811!2d13.417644676279973!3d52.510499536933416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e3ae53c6233%3A0x7d8531656bfc43a0!2sOHM!5e0!3m2!1sde!2sus!4v1717759384981!5m2!1sde!2sus"
       }
     },
-
     {
       "id": 20,
       "name": "Ritter Butzke",
       "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/02/dc/54/innenhof.jpg?w=1200&h=-1&s=1",
       "description": "Ritter Butzke is located on the ground floor of a former factory in Kreuzberg. It began as an illegal club in 2007, but went official two years later. The venue has three main dance floors, plus an outdoor courtyard that's open in the summer. Musically the main focus is House & Techno. The DJs and the crowd are most often Berliners. The club has a big cast of residents and regulars that has included Niconé, Matthias Schuell and Prismode & Solvane.",
-
       "address": {
         "street": "Ritterstr. 24-26 ",
         "zip": 10969,
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno"],
-
+      "genre": [
+        "Techno"
+      ],
       "capacity": 2000,
       "src": {
         "ra_guide": "https://ra.co/clubs/6950",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.6899147466593!2d13.405306676279428!3d52.50285243749954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e2c6c6d5aa5%3A0xe6c2573ac8bc325f!2sRitter%20Butzke!5e0!3m2!1sde!2sma!4v1717759656288!5m2!1sde!2sma"
       }
     },
-
     {
       "id": 21,
       "name": "Sisyphos",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sisyphos_Nightclub_Berlin.jpg/640px-Sisyphos_Nightclub_Berlin.jpg",
       "description": "Though a lesser-known member of Berlin's club scene, Sisyphos throws some of the city's most unhinged parties, often running from Friday to Monday with no break. It has a warehouse-style main room, usually with techno or tech house DJs playing, plus a more house-oriented second room and a large outdoor garden littered with abandoned cars and other debris. Lineups are almost never announced, but sometimes include big international DJs (Richie Hawtin played in 2015).",
-
       "address": {
         "street": "Hauptstraße 15",
         "zip": "10317",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno"],
-
+      "genre": [
+        "Techno"
+      ],
       "capacity": 1500,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/17118",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1796.8903046257435!2d13.490113548853804!3d52.492975195538925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84edee9d20aa7%3A0x3587c2ca47fc0903!2sSisyphos!5e0!3m2!1sde!2sde!4v1717752649867!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 22,
       "name": "Soda Club",
       "image": "https://altamann.com/wp-content/uploads/2022/07/SODA-CLUB-%C2%A9ALTAMANN.webp",
       "description": "At Soda Club you can expect not just one, but five unique dance floors, each pulsating with an eclectic mix of house, techno and pop music. The club ensures that there is something for every taste.",
-
       "address": {
         "street": "Knaackstraße 97",
         "zip": "10435",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Discohouse"],
-
+      "genre": [
+        "House"
+      ],
       "capacity": 2000,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/55558",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4853.339487509754!2d13.411756176530584!3d52.539409234792565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851fe481312cb%3A0x91229c36dc7f149a!2sSoda%20Club%20Berlin!5e0!3m2!1sde!2sde!4v1717752980869!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 23,
       "name": "Sage Club",
       "image": "https://www.sage-club.de/fileadmin/sageclub/impressionen/sage-15.jpg",
       "description": "On Thursdays, the Sage Club hosts after-work chill-outs and table football, with two bands taking to the stage later on. The DJ set follows later in the evening with a wild mix of indie rock, Britpop, metal, industrial, alternative and 90s classics.",
-
       "address": {
         "street": "Köpenicker Straße 76",
         "zip": "10179",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Indie rock", "Britpop", "Metal", "Industrial", "Alternative"],
-
+      "genre": [
+        "Indie rock",
+        "Britpop",
+        "Metal"
+      ],
       "capacity": 300,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/1613",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.2404417370876!2d13.4170483!3d52.5109876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e252f26677f%3A0x1f8bfdb143abc276!2sSage%20Club!5e0!3m2!1sde!2sde!4v1717754235938!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 24,
       "name": "SO36",
       "image": "https://www.berlin.de/binaries/asset/image_assets/8872041/source/1715924626/1000x500/",
       "description": "The club's guests and programme are as colourful as Kreuzberg itself: Schlager parties, standard dance classes, radio play evenings, techno parties and rock concerts. The programme is topped off by regular party series, such as the 'My ugly X' bad button party, the homo-oriental night 'Gayhane' or the 'Night Flea Market'.",
-
       "address": {
         "street": "Oranienstraße 190",
         "zip": "10999",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno", "Rock", "Schlager"],
-
+      "genre": [
+        "Techno",
+        "Rock",
+        "Schlager"
+      ],
       "capacity": 800,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/15179",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4857.651322959662!2d13.41952687652839!3d52.50039533768107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e345f157c27%3A0x3e57a93e13cd2a78!2sSO%2036!5e0!3m2!1sde!2sde!4v1717755072758!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 25,
       "name": "The Pearl",
       "image": "https://cdn.eventinc.de/provider_pictures/pictures/000/334/532/cropped_webp/eventlocation-the-pearl-berlin.webp?1696077563",
       "description": "You are welcome to dress up for a visit to The Pearl, as the club's dress code is 'Dress like it's your first date with us'. Drinks from various bars and booming hip hop or house beats help to calm the excitement of a first date. The Pearl hosts after-work parties earlier during the week - thanks to its proximity to Kudamm, there is certainly no shortage of people interested in relaxing after work.",
-
       "address": {
         "street": "Fasanenstraße 81",
         "zip": "10623",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Hip-Hop", "House"],
-
+      "genre": [
+        "Hip-Hop",
+        "House"
+      ],
       "capacity": 800,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/92215",
@@ -554,108 +534,129 @@
       "name": "Tresor",
       "image": "https://usomo.de/wp-content/uploads/2022/07/usomo-tresor-31-berlin-169-15-scaled.jpeg",
       "description": "The result is a spectacular club temple: the so-called 'Batterieraum' is a worthy successor to the Globus, the '+4 Bar' offers a breathtaking view of the power station ruins and the Tresor cellar can be accessed through a 30 metre long tunnel.",
-
       "address": {
         "street": "Köpenickerstrasse 70",
         "zip": "10179",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno"],
-
+      "genre": [
+        "Techno"
+      ],
       "capacity": 600,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/5494",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.253601097809!2d13.41676467652899!3d52.510749436914566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e3ac6dccb67%3A0xebef299c30508423!2sTresor%20Berlin%20I%20Club%20%26%20label!5e0!3m2!1sde!2sde!4v1717755536683!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 27,
       "name": "Void Club",
       "image": "https://www.theclubmap.com/wp-content/uploads/2018/08/void-club-berlin-3.jpg",
       "description": "With its mixture of techno, DnB and psytrance with consistently strong bass, the Void Club has been able to gather many fans in Berlin.",
-
       "address": {
         "street": "Wiesenweg 5-9",
         "zip": "10365",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Techno", "DnB", "Psytrance"],
-
+      "genre": [
+        "Techno",
+        "DnB",
+        "Trance"
+      ],
       "capacity": 350,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/106495",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.437419799678!2d13.473783376528754!3d52.507422537160906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84ef1f488af1b%3A0xf2682765a6c5a50b!2sVOID%20Club%20%26%20Hall!5e0!3m2!1sde!2sde!4v1717755674502!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 28,
       "name": "Watergate",
       "image": "https://images.xceed.me/clubs/covers/watergate-club-berlin-xceed-8e69.jpg",
       "description": "The high-quality booking from the electro, house, techno and minimalist genres has quickly earned the club an international reputation with its minimalist inventory, flat leather seating areas and fluorescent tubes. This is also thanks to the magnificent view: The 'Waterfloor' in the lower area lives up to its name, offering - like the jetty in summer - an uninterrupted view directly across the Spree to the headquarters of a major music label thanks to its large window front.",
-
       "address": {
         "street": "Falckensteinstrasse 49",
         "zip": "10997",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["House", "DnB", "Techno", "Electro" ],
-
+      "genre": [
+        "House",
+        "DnB",
+        "Techno",
+        "Electro"
+      ],
       "capacity": 800,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/3213",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1394.975757681581!2d13.443827991009876!3d52.500971457123406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e51f2941d61%3A0xa45f003fc9cde305!2sWatergate!5e0!3m2!1sde!2sde!4v1717756080056!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 29,
       "name": "Yaam",
       "image": "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/image/Yaam_c_yaam_Foto_Philipp_Leisenberg_web.jpg?h=199d8c1f&itok=57kPAdeT",
       "description": "Yaam can look back on a 20-year history. Although it has not always been located on Schillingbrücke near Ostbahnhof, it has long been an integral part of Berlin's club and music scene. Bass music and sound system parties take place here regularly, while artists from the reggae, dancehall, hip hop, afrobeat and dub genres play here on other evenings. In addition to the musical programme, the Yaam offers much more: the Yaam's public sports facility invites children, young people and adults to play basketball or volleyball, there are graffiti workshops or yoga and capoeira courses.",
-
       "address": {
         "street": "An d. Schillingbrücke 3",
         "zip": "10243",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Reggae", "Dancehall", "Hip-Hop", "Afrobeat", "Dub"],
-
+      "genre": [
+        "Reggae",
+        "Dancehall",
+        "Hip-Hop",
+        "Afrobeat",
+        "Dub"
+      ],
       "capacity": 3000,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/93297",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5277.759900653256!2d13.427056075143929!3d52.510540690655986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x416523bf2a00534b%3A0xd9ed32eb6d436191!2sYAAM!5e0!3m2!1sde!2sde!4v1717756443306!5m2!1sde!2sde"
       }
     },
-
     {
       "id": 30,
       "name": "808 Berlin",
       "image": "https://cloud.imexx.de/lib/userfiles/272/mieter/1890314659.jpg",
       "description": "The 808 is divided into a bar and club area and offers its guests international booking at the highest level. It can also be booked for concerts or corporate events",
-
       "address": {
         "street": "Budapester Str. 38-50",
         "zip": "10787",
         "city": "Berlin",
         "country": "Germany"
       },
-
-      "genre": ["Hip-Hop", "RnB", "Downbeat"],
-
+      "genre": [
+        "Hip-Hop",
+        "RnB",
+        "Downbeat"
+      ],
       "capacity": 300,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/153709",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.5377875763766!2d13.335506076528699!3d52.505605937295364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a85055667e3475%3A0xe36f07dceec74199!2s808%20Nachtklub!5e0!3m2!1sde!2sde!4v1717756703595!5m2!1sde!2sde"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Test",
+      "image": "https://imgproxy.ra.co/_/quality:66/w:1442/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vNDMzYTljZjc3N2Q1MGQ3OTllN2YwMzhjZWEwNzBiZDUwZDJlZjcxZi5wbmc=",
+      "description": "A visit to Humboldthain can mean two things: Strolling in a public park or dancing in the club of the same name around the corner. Those who like it quiet will prefer the green oasis created in the 19th century, while those who like to dance late into the night should visit the Humboldthain club.\n\nLocated in the Wedding district, the club is easy to reach thanks to its direct location next to the S-Bahn station and is certainly not the only reason why it is a popular venue for a cheerful, colorful crowd. Humboldthain offers a varied program with parties covering different music genres, but mainly with electronic roots.",
+      "address": {
+        "street": "Hochstraße 46",
+        "zip": "13357",
+        "city": "Berlin"
+      },
+      "genre": [
+        "Techno"
+      ],
+      "capacity": 400,
+      "src": {
+        "ra_guide": "https://de.ra.co/clubs/78234",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2426.3941937861587!2d13.37596447677449!3d52.544394172067555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a8518991e8afad%3A0x7340195fb5c93dc4!2sHumboldthain%20Club!5e0!3m2!1sde!2sde!4v1717756113081!5m2!1sde!2sde"
       }
     }
   ]
