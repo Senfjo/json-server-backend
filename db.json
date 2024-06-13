@@ -1,4 +1,36 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "username": "Test",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "username": "Ayko",
+      "password": "12345"
+    },
+    {
+      "id": 3,
+      "username": "Ayoub",
+      "password": "12345"
+    },
+    {
+      "id": 4,
+      "username": "Jonathan",
+      "password": "12345"
+    },
+    {
+      "id": 5,
+      "username": "Mostrich",
+      "password": "12345"
+    },
+    {
+      "username": "AykoTest",
+      "password": "12345",
+      "id": 7
+    }
+  ],
   "clubs": [
     {
       "id": 1,
@@ -642,21 +674,56 @@
     },
     {
       "id": 31,
-      "name": "Test",
-      "image": "https://imgproxy.ra.co/_/quality:66/w:1442/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vNDMzYTljZjc3N2Q1MGQ3OTllN2YwMzhjZWEwNzBiZDUwZDJlZjcxZi5wbmc=",
-      "description": "A visit to Humboldthain can mean two things: Strolling in a public park or dancing in the club of the same name around the corner. Those who like it quiet will prefer the green oasis created in the 19th century, while those who like to dance late into the night should visit the Humboldthain club.\n\nLocated in the Wedding district, the club is easy to reach thanks to its direct location next to the S-Bahn station and is certainly not the only reason why it is a popular venue for a cheerful, colorful crowd. Humboldthain offers a varied program with parties covering different music genres, but mainly with electronic roots.",
+      "name": "Ironclub",
+      "image": "https://archello.s3.eu-central-1.amazonaws.com/images/2022/11/02/up.great-ironhack-b--ros-archello.1667392003.0296.jpg",
+      "description": "Work on real projects, with tools that you will use in your future tech job. Acquire the knowledge you need to get a job in the tech industry.",
       "address": {
-        "street": "Hochstraße 46",
-        "zip": "13357",
-        "city": "Berlin"
+        "street": "Storkower Str. 132",
+        "zip": "10407",
+        "city": "Berlin",
+        "country": "Germany"
       },
       "genre": [
-        "Techno"
+        "WebDev",
+        "Data Analytics",
+        "Cybersecurity"
       ],
-      "capacity": 400,
+      "capacity": 12,
       "src": {
-        "ra_guide": "https://de.ra.co/clubs/78234",
-        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2426.3941937861587!2d13.37596447677449!3d52.544394172067555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a8518991e8afad%3A0x7340195fb5c93dc4!2sHumboldthain%20Club!5e0!3m2!1sde!2sde!4v1717756113081!5m2!1sde!2sde"
+        "ra_guide": "https://www.ironhack.com/de/berlin?utm_source=google&utm_medium=cpc&utm_campaign=BER_Germany_Berlin_Global_Search_Brand_DE&utm_content=search-brand&utm_term=ironhack%20berlin&adgroup=brand_de&gad_source=1&gclid=CjwKCAjwjqWzBhAqEiwAQmtgT_clkrCGnAQVXGMpmQbhO0-gEKviCv7ugcC2G73FAdXD11ZGZBQ8xhoC48IQAvD_BwE",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.026141410509!2d13.453217799999997!3d52.53296119999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851c9c5b09a99%3A0xb0cf5b7bf125aace!2sIronhack%3A%20Tech%20Bootcamps%20in%20Berlin!5e0!3m2!1sde!2sde!4v1718195324532!5m2!1sde!2sde"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Testclub",
+      "image": "https://archello.s3.eu-central-1.amazonaws.com/images/2022/11/02/up.great-ironhack-b--ros-archello.1667392003.0296.jpg",
+      "description": "Test description",
+      "address": {
+        "street": "Storkower Str. 132",
+        "zip": "10407",
+        "city": "Berlin",
+        "country": "Germany"
+      },
+      "genre": [
+        "WebDev",
+        "Data Analytics",
+        "Cybersecurity"
+      ],
+      "comments": [
+        {
+          "text": "Best club ever",
+          "user": "Mostrich"
+        },
+        {
+          "text": "Best Testclub ever",
+          "user": "Ayko"
+        }
+      ],
+      "capacity": 12,
+      "src": {
+        "ra_guide": "https://www.ironhack.com/de/berlin?utm_source=google&utm_medium=cpc&utm_campaign=BER_Germany_Berlin_Global_Search_Brand_DE&utm_content=search-brand&utm_term=ironhack%20berlin&adgroup=brand_de&gad_source=1&gclid=CjwKCAjwjqWzBhAqEiwAQmtgT_clkrCGnAQVXGMpmQbhO0-gEKviCv7ugcC2G73FAdXD11ZGZBQ8xhoC48IQAvD_BwE",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.026141410509!2d13.453217799999997!3d52.53296119999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851c9c5b09a99%3A0xb0cf5b7bf125aace!2sIronhack%3A%20Tech%20Bootcamps%20in%20Berlin!5e0!3m2!1sde!2sde!4v1718195324532!5m2!1sde!2sde"
       }
     }
   ]
