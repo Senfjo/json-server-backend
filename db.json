@@ -11,24 +11,14 @@
       "password": "12345"
     },
     {
-      "id": 3,
-      "username": "Ayoub",
-      "password": "12345"
-    },
-    {
-      "id": 4,
-      "username": "Jonathan",
-      "password": "12345"
-    },
-    {
-      "id": 5,
-      "username": "Mostrich",
-      "password": "12345"
-    },
-    {
-      "username": "AykoTest",
+      "username": "Ironhack",
       "password": "12345",
-      "id": 7
+      "id": 3
+    },
+    {
+      "username": "Testprofile",
+      "password": "12345",
+      "id": 4
     }
   ],
   "clubs": [
@@ -47,6 +37,7 @@
         "House",
         "Techno"
       ],
+      "comments": [],
       "capacity": 800,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/28354",
@@ -72,7 +63,8 @@
       "src": {
         "ra_guide": "https://de.ra.co/clubs/5031",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.223601931593!2d13.440121876772514!3d52.5112923720588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e438bc65e9f%3A0x6bf6d41ba1fc757c!2sBerghain%20%7C%20Panorama%20Bar%20%7C%20S%C3%A4ule!5e0!3m2!1sde!2sde!4v1717757635633!5m2!1sde!2sde"
-      }
+      },
+      "comments": []
     },
     {
       "id": 3,
@@ -92,6 +84,7 @@
         "Disco",
         "RnB"
       ],
+      "comments": [],
       "capacity": 1000,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/104289",
@@ -111,6 +104,9 @@
       },
       "genre": [
         "Techno"
+      ],
+      "comments": [
+        
       ],
       "capacity": 150,
       "src": {
@@ -132,6 +128,7 @@
       "genre": [
         "Techno"
       ],
+      "comments": [],
       "capacity": 900,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/79607",
@@ -153,6 +150,7 @@
         "Techno",
         "House"
       ],
+      "comments": [],
       "capacity": 500,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/8009",
@@ -175,6 +173,7 @@
         "Reggaeton",
         "Salsa"
       ],
+      "comments": [],
       "capacity": "350",
       "src": {
         "ra_guide": "",
@@ -197,6 +196,7 @@
         "Jazz",
         "House"
       ],
+      "comments": [],
       "capacity": 500,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/51972",
@@ -218,6 +218,7 @@
         "Techno",
         "House"
       ],
+      "comments": [],
       "capacity": 125,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/9585",
@@ -242,6 +243,7 @@
         "EDM",
         "Hip-Hop"
       ],
+      "comments": [],
       "capacity": 400,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/78234",
@@ -262,6 +264,7 @@
       "genre": [
         "Techno"
       ],
+      "comments": [],
       "capacity": 800,
       "src": {
         "ra_guide": "https://ra.co/clubs/99161",
@@ -282,6 +285,7 @@
       "genre": [
         "Techno"
       ],
+      "comments": [],
       "capacity": 400,
       "src": {
         "ra_guide": "https://ra.co/clubs/10546",
@@ -306,6 +310,7 @@
         "Rock",
         "RnB"
       ],
+      "comments": [],
       "capacity": 2500,
       "src": {
         "ra_guide": "https://ra.co/clubs/49006",
@@ -326,6 +331,7 @@
       "genre": [
         "Techno"
       ],
+      "comments": [],
       "capacity": 1100,
       "src": {
         "ra_guide": "https://ra.co/clubs/103373",
@@ -350,6 +356,7 @@
         "Party",
         "RnB"
       ],
+      "comments": [],
       "capacity": 1500,
       "src": {
         "ra_guide": "https://ra.co/clubs/171574",
@@ -370,6 +377,7 @@
       "genre": [
         "Techno"
       ],
+      "comments": [],
       "capacity": 200,
       "src": {
         "ra_guide": "https://ra.co/clubs/8556",
@@ -390,6 +398,7 @@
       "genre": [
         "Techno"
       ],
+      "comments": [],
       "capacity": 900,
       "src": {
         "ra_guide": "https://ra.co/clubs/18924",
@@ -410,6 +419,7 @@
       "genre": [
         "Techno"
       ],
+      "comments": [],
       "capacity": 600,
       "src": {
         "ra_guide": "https://ra.co/clubs/141987",
@@ -430,6 +440,7 @@
       "genre": [
         "Techno"
       ],
+      "comments": [],
       "capacity": 200,
       "src": {
         "ra_guide": "https://ra.co/clubs/75457",
@@ -450,6 +461,7 @@
       "genre": [
         "Techno"
       ],
+      "comments": [],
       "capacity": 2000,
       "src": {
         "ra_guide": "https://ra.co/clubs/6950",
@@ -470,6 +482,7 @@
       "genre": [
         "Techno"
       ],
+      "comments": [],
       "capacity": 1500,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/17118",
@@ -490,6 +503,7 @@
       "genre": [
         "House"
       ],
+      "comments": [],
       "capacity": 2000,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/55558",
@@ -512,6 +526,7 @@
         "Britpop",
         "Metal"
       ],
+      "comments": [],
       "capacity": 300,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/1613",
@@ -534,6 +549,7 @@
         "Rock",
         "Schlager"
       ],
+      "comments": [],
       "capacity": 800,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/15179",
@@ -556,6 +572,7 @@
         "House"
       ],
       "capacity": 800,
+      "comments": [],
       "src": {
         "ra_guide": "https://de.ra.co/clubs/92215",
         "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.5669427258467!2d13.325595676528653!3d52.505078237334416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a850fc36ee4e47%3A0xdc28baafe959c24!2sTHE%20PEARL%20-%20Bar%20%7C%20Club%20%7C%20Event!5e0!3m2!1sde!2sde!4v1717755227115!5m2!1sde!2sde"
@@ -575,6 +592,7 @@
       "genre": [
         "Techno"
       ],
+      "comments": [],
       "capacity": 600,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/5494",
@@ -597,6 +615,7 @@
         "DnB",
         "Trance"
       ],
+      "comments": [],
       "capacity": 350,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/106495",
@@ -620,6 +639,7 @@
         "Techno",
         "Electro"
       ],
+      "comments": [],
       "capacity": 800,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/3213",
@@ -628,26 +648,25 @@
     },
     {
       "id": 29,
-      "name": "Yaam",
-      "image": "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/image/Yaam_c_yaam_Foto_Philipp_Leisenberg_web.jpg?h=199d8c1f&itok=57kPAdeT",
-      "description": "Yaam can look back on a 20-year history. Although it has not always been located on Schillingbrücke near Ostbahnhof, it has long been an integral part of Berlin's club and music scene. Bass music and sound system parties take place here regularly, while artists from the reggae, dancehall, hip hop, afrobeat and dub genres play here on other evenings. In addition to the musical programme, the Yaam offers much more: the Yaam's public sports facility invites children, young people and adults to play basketball or volleyball, there are graffiti workshops or yoga and capoeira courses.",
+      "name": "Ironclub",
+      "image": "https://archello.s3.eu-central-1.amazonaws.com/images/2022/11/02/up.great-ironhack-b--ros-archello.1667392003.0296.jpg",
+      "description": "Work on real projects, with tools that you will use in your future tech job. Acquire the knowledge you need to get a job in the tech industry.",
       "address": {
-        "street": "An d. Schillingbrücke 3",
-        "zip": "10243",
+        "street": "Storkower Str. 132",
+        "zip": "10407",
         "city": "Berlin",
         "country": "Germany"
       },
       "genre": [
-        "Reggae",
-        "Dancehall",
-        "Hip-Hop",
-        "Afrobeat",
-        "Dub"
+        "WebDev",
+        "Data Analytics",
+        "Cybersecurity"
       ],
-      "capacity": 3000,
+      "comments": [],
+      "capacity": 12,
       "src": {
-        "ra_guide": "https://de.ra.co/clubs/93297",
-        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5277.759900653256!2d13.427056075143929!3d52.510540690655986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x416523bf2a00534b%3A0xd9ed32eb6d436191!2sYAAM!5e0!3m2!1sde!2sde!4v1717756443306!5m2!1sde!2sde"
+        "ra_guide": "https://www.ironhack.com/de/berlin?utm_source=google&utm_medium=cpc&utm_campaign=BER_Germany_Berlin_Global_Search_Brand_DE&utm_content=search-brand&utm_term=ironhack%20berlin&adgroup=brand_de&gad_source=1&gclid=CjwKCAjwjqWzBhAqEiwAQmtgT_clkrCGnAQVXGMpmQbhO0-gEKviCv7ugcC2G73FAdXD11ZGZBQ8xhoC48IQAvD_BwE",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.026141410509!2d13.453217799999997!3d52.53296119999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851c9c5b09a99%3A0xb0cf5b7bf125aace!2sIronhack%3A%20Tech%20Bootcamps%20in%20Berlin!5e0!3m2!1sde!2sde!4v1718195324532!5m2!1sde!2sde"
       }
     },
     {
@@ -666,6 +685,7 @@
         "RnB",
         "Downbeat"
       ],
+      "comments": [],
       "capacity": 300,
       "src": {
         "ra_guide": "https://de.ra.co/clubs/153709",
@@ -674,56 +694,27 @@
     },
     {
       "id": 31,
-      "name": "Ironclub",
-      "image": "https://archello.s3.eu-central-1.amazonaws.com/images/2022/11/02/up.great-ironhack-b--ros-archello.1667392003.0296.jpg",
-      "description": "Work on real projects, with tools that you will use in your future tech job. Acquire the knowledge you need to get a job in the tech industry.",
+      "name": "Yaam",
+      "image": "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/image/Yaam_c_yaam_Foto_Philipp_Leisenberg_web.jpg?h=199d8c1f&itok=57kPAdeT",
+      "description": "Yaam can look back on a 20-year history. Although it has not always been located on Schillingbrücke near Ostbahnhof, it has long been an integral part of Berlin's club and music scene. Bass music and sound system parties take place here regularly, while artists from the reggae, dancehall, hip hop, afrobeat and dub genres play here on other evenings. In addition to the musical programme, the Yaam offers much more: the Yaam's public sports facility invites children, young people and adults to play basketball or volleyball, there are graffiti workshops or yoga and capoeira courses.",
       "address": {
-        "street": "Storkower Str. 132",
-        "zip": "10407",
+        "street": "An d. Schillingbrücke 3",
+        "zip": "10243",
         "city": "Berlin",
         "country": "Germany"
       },
       "genre": [
-        "WebDev",
-        "Data Analytics",
-        "Cybersecurity"
+        "Reggae",
+        "Dancehall",
+        "Hip-Hop",
+        "Afrobeat",
+        "Dub"
       ],
-      "capacity": 12,
+      "comments": [],
+      "capacity": 3000,
       "src": {
-        "ra_guide": "https://www.ironhack.com/de/berlin?utm_source=google&utm_medium=cpc&utm_campaign=BER_Germany_Berlin_Global_Search_Brand_DE&utm_content=search-brand&utm_term=ironhack%20berlin&adgroup=brand_de&gad_source=1&gclid=CjwKCAjwjqWzBhAqEiwAQmtgT_clkrCGnAQVXGMpmQbhO0-gEKviCv7ugcC2G73FAdXD11ZGZBQ8xhoC48IQAvD_BwE",
-        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.026141410509!2d13.453217799999997!3d52.53296119999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851c9c5b09a99%3A0xb0cf5b7bf125aace!2sIronhack%3A%20Tech%20Bootcamps%20in%20Berlin!5e0!3m2!1sde!2sde!4v1718195324532!5m2!1sde!2sde"
-      }
-    },
-    {
-      "id": 32,
-      "name": "Testclub",
-      "image": "https://archello.s3.eu-central-1.amazonaws.com/images/2022/11/02/up.great-ironhack-b--ros-archello.1667392003.0296.jpg",
-      "description": "Test description",
-      "address": {
-        "street": "Storkower Str. 132",
-        "zip": "10407",
-        "city": "Berlin",
-        "country": "Germany"
-      },
-      "genre": [
-        "WebDev",
-        "Data Analytics",
-        "Cybersecurity"
-      ],
-      "comments": [
-        {
-          "text": "Best club ever",
-          "user": "Mostrich"
-        },
-        {
-          "text": "Best Testclub ever",
-          "user": "Ayko"
-        }
-      ],
-      "capacity": 12,
-      "src": {
-        "ra_guide": "https://www.ironhack.com/de/berlin?utm_source=google&utm_medium=cpc&utm_campaign=BER_Germany_Berlin_Global_Search_Brand_DE&utm_content=search-brand&utm_term=ironhack%20berlin&adgroup=brand_de&gad_source=1&gclid=CjwKCAjwjqWzBhAqEiwAQmtgT_clkrCGnAQVXGMpmQbhO0-gEKviCv7ugcC2G73FAdXD11ZGZBQ8xhoC48IQAvD_BwE",
-        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.026141410509!2d13.453217799999997!3d52.53296119999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851c9c5b09a99%3A0xb0cf5b7bf125aace!2sIronhack%3A%20Tech%20Bootcamps%20in%20Berlin!5e0!3m2!1sde!2sde!4v1718195324532!5m2!1sde!2sde"
+        "ra_guide": "https://de.ra.co/clubs/93297",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5277.759900653256!2d13.427056075143929!3d52.510540690655986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x416523bf2a00534b%3A0xd9ed32eb6d436191!2sYAAM!5e0!3m2!1sde!2sde!4v1717756443306!5m2!1sde!2sde"
       }
     }
   ]
